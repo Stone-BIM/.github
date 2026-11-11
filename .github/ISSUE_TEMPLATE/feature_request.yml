@@ -1,0 +1,38 @@
+name: Предложение
+description: Идея улучшения или новая возможность
+title: "[Предложение]: "
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Проект
+      options:
+        - Stone.Revit (Revit-плагины)
+        - Бюджетные объёмы
+        - Другое
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Какую задачу решаем
+      description: Что сейчас делается вручную или неудобно.
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Предлагаемое решение
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Альтернативы
+      description: Что уже пробовали и почему не подошло.
+  - type: textarea
+    id: context
+    attributes:
+      label: Дополнительный контекст
+      description: Скриншоты, примеры моделей (без персональных данных), ссылки.

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Справка Stone.Revit
+    url: https://github.com/Stone-BIM/stone-plugins
+    about: Кнопка «Инструкция» в окне плагина открывает справку по модулю
+  - name: Документация «Бюджетные объёмы»
+    url: https://github.com/Stone-BIM/BudgetCalculation
+    about: Начните с файла НАЧАТЬ_ЗДЕСЬ.md в репозитории
