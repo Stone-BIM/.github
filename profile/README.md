@@ -17,4 +17,4 @@
 
 ## Связь
 
-Вопросы по доступу и сотрудничеству — через владельца организации [@bendylot](https://github.com/bendylot).
+Вопросы по доступу и сотрудничеству — через владельца организации [@zutaevkspro-droid](https://github.com/zutaevkspro-droid), [@bendylot](https://github.com/bendylot).
